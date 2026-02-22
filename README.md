@@ -1,88 +1,107 @@
-<!-- HEADER / BANNER -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Nissanth+Neelakandan+Abirami+🚀;ML+Engineer+%7C+AI+Enthusiast+%7C+USC+Graduate+Student" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=00F5D4&width=700&lines=Hey+there!+👋;I'm+Nissanth+Neelakandan+Abirami;Software+Engineer+%7C+ML+Engineer+%7C+Data+Scientist+@+USC;Building+End-to-End+AI+Systems+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:nissanthna@gmail.com"><img src="https://img.shields.io/badge/Email-nissanthna%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nissanthna@gmail.com"><img src="https://img.shields.io/badge/Gmail-nissanthna%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nissanth-neelakandan-abirami-76a828217/"><img src="https://img.shields.io/badge/LinkedIn-Nissanth-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/NissanthNeelakandanAbirami"><img src="https://img.shields.io/badge/GitHub-Nissanth-black?style=for-the-badge&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=NissanthNeelakandanAbirami&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## 🌌 About Me  
+## 🧠 About Me  
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/NissanthNeelakandanAbirami/NissanthNeelakandanAbirami/assets/123456789/animation_ml.gif"/>
 
-🧠 Graduate Student at the **University of Southern California** (MS ECE – Machine Learning & Data Science)  
-🚀 Passionate about **LLMs, Generative AI, and Cloud ML Pipelines**  
-☁️ Skilled in **AWS**, **GCP**, **Docker**, **Kubernetes**, and **Airflow**  
-🦾 I love designing **production-grade ML systems** that scale efficiently  
-📍 Based in **Los Angeles, California**
+🎓 Graduate Student @ **University of Southern California** — M.S. in Electrical & Computer Engineering *(Machine Learning & Data Science)*  
+💼 Experienced in **LLMs, Generative AI, and Cloud ML Pipelines (AWS/GCP)**  
+🧩 Building **production-ready AI systems** — from data pipelines to model deployment  
+🔬 Research & Projects in **LLMs, Vision Transformers, Federated Learning, and RAG systems**  
+💻 Comfortable working across **frontend, backend, APIs, distributed systems, and MLOps stacks**  
+📍 Based in **Los Angeles, CA**
 
 ---
 
-## ⚙️ Tech Stack  
+## 🛠️ Technical Arsenal  
 
-<div align="center">
-  
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 🧮 Languages  
+`Python` · `SQL` · `R` · `JavaScript` · `TypeScript` · `C++` · `C` · `HTML` · `CSS`
 
 ### 🤖 Machine Learning / AI  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=semanticweb&logoColor=white)
+`PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn` · `XGBoost` · `CatBoost` · `OpenCV` · `Pandas` · `NumPy`  
+`Transformers` · `LangChain` · `HuggingFace` · `NLTK` · `spaCy` · `Generative AI` · `LLMs` · `RAG` · `Prompt Engineering`  
+`Computer Vision` · `Deep Learning` · `Time Series Forecasting` · `Anomaly Detection` · `Reinforcement Learning`
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-316CE6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+### ☁️ MLOps & Cloud Infrastructure  
+`AWS (SageMaker, Lambda, S3, Textract, EC2, API Gateway, DynamoDB)`  
+`GCP (Compute Engine, BigQuery, Vertex AI)`  
+`Docker` · `Kubernetes` · `Airflow` · `CI/CD` · `REST APIs` · `Flask` · `FastAPI`  
 
-</div>
+### 🧩 Data Engineering & Databases  
+`MySQL` · `PostgreSQL` · `MongoDB` · `Hadoop` · `Kafka` · `Spark` · `ETL / ELT Pipelines` · `Data Warehousing`
 
----
+### 📊 Visualization & BI  
+`Tableau` · `Power BI` · `Matplotlib` · `Seaborn` · `Plotly` · `Streamlit` · `Dash`
 
-## 🧩 Featured Projects  
-
-| 🧠 Project | 🚀 Summary | ⚙️ Tech Stack |
-|-------------|------------|----------------|
-| **LLM-Based Mortality Prediction (MIMIC-IV)** | Fine-tuned *LLaMA2* models on clinical data with temporal feature engineering | PyTorch · PostgreSQL · XGBoost |
-| **CineLit Recommender** | Hybrid recommendation using content + collaborative filtering | TF-IDF · Neural Networks |
-| **StyleGAN MRI Synthesizer** | Generative augmentation for underrepresented medical data | PyTorch · TensorFlow |
-| **AirPulse Delhi** | Cloud-native AQI intelligence system | AWS Lambda · React · API Gateway |
-| **Spotify Audio Intelligence** | OAuth-integrated analytics for music insights | Node.js · React · REST API |
+### ⚙️ Software & Web Dev  
+`Node.js` · `Express.js` · `React.js` · `Redux` · `Next.js` · `TypeScript` · `WebSockets` · `OAuth`
 
 ---
 
-## 📈 GitHub Stats  
+## 🧩 Highlight Projects  
 
+| 🚀 Project | 💡 Description | 🧠 Tech Stack |
+|-------------|----------------|---------------|
+| **LLM-Based Mortality Prediction (MIMIC-IV)** | Fine-tuned *LLaMA-2* on clinical time-series data; class-weighted loss; 12% improvement over XGBoost | PyTorch · PostgreSQL · AWS SageMaker |
+| **CineLit Recommender** | Hybrid recommender combining TF-IDF, metadata similarity & matrix factorization for better top-K hit rate | Python · TensorFlow · Pandas |
+| **StyleGAN MRI Synthesizer** | Synthesized glioma MRI data with Conditional StyleGAN; improved FID by 18% | PyTorch · TensorFlow |
+| **AirPulse Delhi (Cloud AQI Analytics)** | Serverless ML system on AWS with real-time prediction & alerting dashboard | AWS Lambda · React.js · API Gateway |
+| **OCR Recipe Recommender (LVC Solutions)** | Textract-based invoice parsing → embeddings → hybrid recipe recommendations | Textract · Python · LLaMA · AWS Lambda |
+
+---
+
+## ⚙️ Tech in Action — Visual Showcase  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NissanthNeelakandanAbirami&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NissanthNeelakandanAbirami&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NissanthNeelakandanAbirami&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NissanthNeelakandanAbirami&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,gcp,docker,kubernetes,react,typescript,nodejs,postgres,airflow,fastapi,vscode,git,github,html,css,linux,opencv,mongodb" />
 </p>
 
 ---
 
-## 🌱 Currently Learning  
+## 📈 GitHub Stats & Analytics  
 
-- Generative AI & LLM Fine-Tuning  
-- Reinforcement Learning for Continuous Control  
-- Distributed ML / Federated Learning  
-- Cloud Scaling of ML APIs  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NissanthNeelakandanAbirami&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NissanthNeelakandanAbirami&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NissanthNeelakandanAbirami&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🧠 Currently Exploring  
+
+💬 **Advanced Topics**:  
+- Large Language Model Fine-tuning (LLaMA, Mistral, GPT-style)  
+- Vision Transformers (ViT, SAM, CLIP)  
+- Federated Learning & Edge Deployment  
+- Reinforcement Learning (PPO / GAE)  
+- Cloud Scaling for AI APIs with Serverless  
+
+---
+
+## 🎨 Fun Side  
+
+🎮 **Gaming Enthusiast** | 🏋️‍♂️ **Gym Rat** | 🎧 **Music & Lo-fi** | ✈️ **Traveler & Photographer**  
+💬 Ask me about **AI career paths, ML workflows, or open-source contributions**
 
 ---
 
@@ -91,10 +110,15 @@
 <p align="center">
   <a href="mailto:nissanthna@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nissanth-neelakandan-abirami-76a828217/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/NissanthNeelakandanAbirami"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+<p align="center">
+  <img width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+that+create+real-world+impact.💡" alt="Closing Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00F5D4&center=true&vCenter=true&width=600&lines=Let's+build+AI+that+makes+a+real-world+impact!+💡" />
 </p>
