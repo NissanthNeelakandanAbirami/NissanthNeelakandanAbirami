@@ -131,26 +131,6 @@
 
 ---
 
-## ⚡ Tech in Action — Visual Showcase  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,aws,gcp,docker,kubernetes,react,typescript,nodejs,postgres,airflow,fastapi,git,github,mongodb,opencv,html,css,vscode,linux" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NissanthNeelakandanAbirami&theme=radical&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
-
-<p align="center">
-  <img width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/ai-hello.gif" />
-</p>
-
-
----
 
 ## 📈 GitHub Stats & Analytics  
 
