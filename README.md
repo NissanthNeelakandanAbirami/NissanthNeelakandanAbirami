@@ -139,9 +139,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NissanthNeelakandanAbirami&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NissanthNeelakandanAbirami&theme=react-dark&hide_border=true&area=true" />
-</p>
 
 ---
 
