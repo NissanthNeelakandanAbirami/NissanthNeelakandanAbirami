@@ -131,14 +131,11 @@
 
 ---
 
-
-## 📈 GitHub Stats & Analytics  
-
+## 📈 GitHub Stats  
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NissanthNeelakandanAbirami&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NissanthNeelakandanAbirami&theme=radical&hide_border=true" />
 </p>
-
 
 ---
 
