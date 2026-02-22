@@ -93,10 +93,6 @@
   <a href="https://www.linkedin.com/in/nissanth-neelakandan-abirami-76a828217/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f4/7a/82/f47a829bcdfd6cb02ec45fd37654b20f.gif" width="400"/>
-</p>
-
 ---
 
 <p align="center">
