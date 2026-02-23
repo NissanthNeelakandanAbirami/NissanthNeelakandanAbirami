@@ -21,7 +21,7 @@
 🧩 Building **production-ready AI systems** — from data pipelines to model deployment  
 🔬 Research & Projects in **LLMs, Vision Transformers, Federated Learning, and RAG systems**  
 💻 Comfortable working across **frontend, backend, APIs, distributed systems, and MLOps stacks**  
-📍 Based in **Los Angeles, CA**
+📍 Based in **New York**
 
 ---
 
