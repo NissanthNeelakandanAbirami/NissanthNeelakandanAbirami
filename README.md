@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-Nissanth-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://github.com/NissanthNeelakandanAbirami/NissanthNeelakandanAbirami/blob/main/resume/Nissanth_Neelakandan_Resume.pdf" target="_blank">
+  <a href="https://github.com/NissanthNeelakandanAbirami/NissanthNeelakandanAbirami/blob/main/Nissanth_Neelakandan_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-00F5D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
   </a>
 
