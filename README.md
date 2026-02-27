@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=00F5D4&width=700&lines=Hey+there!+👋;I'm+Nissanth+Neelakandan+Abirami;Software+Engineer+%7C+ML+Engineer+%7C+Data+Scientist;Building+End-to-End+AI+Systems+🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="mailto:nissanthna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-nissanthna%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
