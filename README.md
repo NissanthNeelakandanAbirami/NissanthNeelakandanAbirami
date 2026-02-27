@@ -4,11 +4,29 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nissanthna@gmail.com"><img src="https://img.shields.io/badge/Gmail-nissanthna%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nissanth-neelakandan-abirami-76a828217/"><img src="https://img.shields.io/badge/LinkedIn-Nissanth-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/NissanthNeelakandanAbirami"><img src="https://img.shields.io/badge/GitHub-Nissanth-black?style=for-the-badge&logo=github" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=00F5D4&width=700&lines=Hey+there!+👋;I'm+Nissanth+Neelakandan+Abirami;Software+Engineer+%7C+ML+Engineer+%7C+Data+Scientist;Building+End-to-End+AI+Systems+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:nissanthna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nissanthna%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/nissanth-neelakandan-abirami-76a828217/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nissanth-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/NissanthNeelakakandanAbirami">
+    <img src="https://img.shields.io/badge/GitHub-Nissanth-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://github.com/NissanthNeelakandanAbirami/NissanthNeelakandanAbirami/blob/main/resume/Nissanth_Neelakandan_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-00F5D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
+  </a>
+
   <img src="https://komarev.com/ghpvc/?username=NissanthNeelakandanAbirami&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
+
 
 ---
 
@@ -133,8 +151,8 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NissanthNeelakandanAbirami&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NissanthNeelakandanAbirami&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NissanthNeelakandanAbirami&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=NissanthNeelakandanAbirami&theme=radical&hide_border=true" />
 </p>
 
 ---
